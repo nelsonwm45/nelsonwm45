@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nelsonwm45
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C && C++
 - 💞️ I’m looking to collaborate on any programming projects
 - 📫 How to reach me nelsonwm45@gmail.com
 - 😄 Pronouns: Nelson
