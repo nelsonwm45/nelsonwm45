@@ -2,13 +2,13 @@
 
 ### Software Engineer | 42 Cadet
 
-I'm a passionate developer currently navigating the rigorous 42 curriculum. I love building robust systems, exploring new technologies, and solving complex algorithmic challenges. From low-level C programming to full-stack web development with Next.js and AI integrations, I enjoy every layer of the stack.
+I'm a passionate developer currently navigating the rigorous 42 curriculum. I love building robust systems, exploring new technologies, and solving algorithmic challenges. From low-level C programming to full-stack web development with Next.js and AI integrations, I enjoy every layer of the stack.
 
 ---
 
 ## 🛠️ Tech Stack
 
-I have built a strong foundation in **systems programming** through the rigorous 42 curriculum, mastering memory management and algorithms in **C** and **C++**. I have since expanded my skillset to **full-stack development**, creating modern web applications with **Next.js** and **Python**. I am also proficient in **Shell scripting** for automation and workflow optimization.
+I have built a foundation in systems programming through the 42 curriculum, working with memory management and algorithms in **C** and **C++**. I have also expanded into full-stack development, building web applications with **Next.js** and **Python**, and using **Shell scripting** for automation.
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
