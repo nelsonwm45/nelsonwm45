@@ -41,13 +41,13 @@ A journey through computer science fundamentals, system programming, and archite
 | Project | Tech Stack | Summary |
 | :--- | :--- | :--- |
 | **[libft](https://github.com/nelsonwm45/libft)** | C, Makefile | My first own C library. Re-implementation of standard C library functions to understand memory management and data structures. |
-| **[get_next_line](https://github.com/nelsonwm45/get_next_line)** | C, File I/O | A function that reads a line ending with a newline character from a file descriptor, teaching static variables and buffer management. |
-| **[ft_printf](https://github.com/nelsonwm45/ft_printf)** | C, Variadic Args | A custom implementation of `printf`, handling variable numbers of arguments and various format specifiers. |
-| **[push_swap](https://github.com/nelsonwm45/push_swap)** | C, Algorithms | Sorting data on a stack with a limited set of instructions using optimized algorithms (Radix Sort) and complexity analysis. |
-| **[minitalk](https://github.com/nelsonwm45/minitalk)** | C, UNIX Signals | A small data exchange program using UNIX signals (`SIGUSR1`, `SIGUSR2`) to communicate between a client and a server. |
-| **[so_long](https://github.com/nelsonwm45/so_long)** | C, MiniLibX | A 2D tile-based game. Deals with window management, event handling, textures, and sprites. |
-| **[Philosophers](https://github.com/nelsonwm45/Philosopher)** | C, Threads, Mutex | Solving the Dining Philosophers problem. A deep dive into concurrency, threading, mutexes, and avoiding deadlocks. |
-| **[Minishell](https://github.com/nelsonwm45/Minishell-42)** | C, Bash, Readline | Creation of a simple shell. Parses commands, manages processes, pipes, redirections, and handles signals. |
+| **[get_next_line](https://github.com/nelsonwm45/get_next_line)** | C | Reading lines from file descriptors. Teaches **File I/O**, static variables, and buffer management. |
+| **[ft_printf](https://github.com/nelsonwm45/ft_printf)** | C, Makefile | Recreating `printf`. Handles **variadic arguments** and various format specifiers. |
+| **[push_swap](https://github.com/nelsonwm45/push_swap)** | C, Makefile | Stack sorting with limited instructions. Focuses on **sorting algorithms** (Radix/Quick Sort) and complexity analysis. |
+| **[minitalk](https://github.com/nelsonwm45/minitalk)** | C, Makefile | Client-server communication using **UNIX Signals** (`SIGUSR1`, `SIGUSR2`) and bitwise operations. |
+| **[so_long](https://github.com/nelsonwm45/so_long)** | C, Makefile | A 2D tile-based game. Deals with window management, event handling, textures, and sprites using **MiniLibX**. |
+| **[Philosophers](https://github.com/nelsonwm45/Philosopher)** | C, Makefile | Solving the Dining Philosophers problem. A deep dive into concurrency, **threads**, **mutexes**, and avoiding deadlocks. |
+| **[Minishell](https://github.com/nelsonwm45/Minishell-42)** | C, Bash | Creation of a simple shell. Parses commands, manages processes, pipes, redirections, and handles signals. Uses **Readline**. |
 | **[CPP-00](https://github.com/nelsonwm45/CPP-00)** | C++ | Basics, Namespaces, Classes, Member functions, stdio streams, Initialization lists, Static, Const. |
 | **[CPP-01](https://github.com/nelsonwm45/CPP-01)** | C++ | Memory Allocation, Pointers, References, Switch statement. |
 | **[CPP-02](https://github.com/nelsonwm45/CPP-02)** | C++ | Ad-hoc Polymorphism, Operator Overloading, Orthodox Canonical Class Form. |
@@ -58,7 +58,7 @@ A journey through computer science fundamentals, system programming, and archite
 | **[CPP-07](https://github.com/nelsonwm45/CPP-07)** | C++ | C++ Templates (Function and Class Templates). |
 | **[CPP-08](https://github.com/nelsonwm45/CPP-08)** | C++ | Templated Containers, Iterators, Algorithms. |
 | **[CPP-09](https://github.com/nelsonwm45/CPP-09)** | C++ | Standard Template Library (STL), Containers (`map`, `stack`, `vector`, `deque`). |
-| **[Cub3d](https://github.com/qtayyy/42-cub3d)** | C, Raycasting | A 3D game engine using raycasting technology, inspired by the classic Wolfenstein 3D. |
+| **[Cub3d](https://github.com/qtayyy/42-cub3d)** | C, Makefile | A 3D game engine using **raycasting** technology, inspired by the classic Wolfenstein 3D. |
 | **[Webserv](https://github.com/jjohntan/webserv.git)** | C++, HTTP/1.1 | Writing a HTTP server from scratch. Supports GET/POST/DELETE, CGI, and handles non-blocking I/O with `epoll`. |
 | **[Inception](https://github.com/nelsonwm45/Inception)** | Docker, Nginx, MariaDB, WordPress | System administration using Docker Compose. Setting up a stack with Nginx, WordPress, and MariaDB in separate containers. |
 | **[ft_transcendence](https://github.com/qtayyy/42-ft_transcendence)** | TS, Next.js, Fastify, Prisma | The final project. A full-stack SPA featuring a real-time Pong game, chat, and robust authentication (OAuth2, 2FA). |
