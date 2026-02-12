@@ -47,7 +47,7 @@ A journey through computer science fundamentals, system programming, and archite
 | **[minitalk](https://github.com/nelsonwm45/minitalk)** | C, UNIX Signals | A small data exchange program using UNIX signals (`SIGUSR1`, `SIGUSR2`) to communicate between a client and a server. |
 | **[so_long](https://github.com/nelsonwm45/so_long)** | C, MiniLibX | A 2D tile-based game. Deals with window management, event handling, textures, and sprites. |
 | **[Philosophers](https://github.com/nelsonwm45/Philosopher)** | C, Threads, Mutex | Solving the Dining Philosophers problem. A deep dive into concurrency, threading, mutexes, and avoiding deadlocks. |
-| **[Minishell](https://github.com/nelsonwm45/Minishell-42)** | C, Bash | Creation of a simple shell. Parses commands, manages processes, pipes, redirections, and handles signals. |
+| **[Minishell](https://github.com/nelsonwm45/Minishell-42)** | C, Bash, Readline | Creation of a simple shell. Parses commands, manages processes, pipes, redirections, and handles signals. |
 | **[CPP-00](https://github.com/nelsonwm45/CPP-00)** | C++ | Basics, Namespaces, Classes, Member functions, stdio streams, Initialization lists, Static, Const. |
 | **[CPP-01](https://github.com/nelsonwm45/CPP-01)** | C++ | Memory Allocation, Pointers, References, Switch statement. |
 | **[CPP-02](https://github.com/nelsonwm45/CPP-02)** | C++ | Ad-hoc Polymorphism, Operator Overloading, Orthodox Canonical Class Form. |
@@ -60,15 +60,15 @@ A journey through computer science fundamentals, system programming, and archite
 | **[CPP-09](https://github.com/nelsonwm45/CPP-09)** | C++ | Standard Template Library (STL), Containers (`map`, `stack`, `vector`, `deque`). |
 | **[Cub3d](https://github.com/qtayyy/42-cub3d)** | C, Raycasting | A 3D game engine using raycasting technology, inspired by the classic Wolfenstein 3D. |
 | **[Webserv](https://github.com/jjohntan/webserv.git)** | C++, HTTP/1.1 | Writing a HTTP server from scratch. Supports GET/POST/DELETE, CGI, and handles non-blocking I/O with `epoll`. |
-| **[Inception](https://github.com/nelsonwm45/Inception)** | Docker, SysAdmin | System administration using Docker Compose. Setting up a stack with Nginx, WordPress, and MariaDB in separate containers. |
-| **[ft_transcendence](https://github.com/qtayyy/42-ft_transcendence)** | TS, Next.js, NestJS | The final project. A full-stack SPA featuring a real-time Pong game, chat, and robust authentication (OAuth2, 2FA). |
+| **[Inception](https://github.com/nelsonwm45/Inception)** | Docker, Nginx, MariaDB, WordPress | System administration using Docker Compose. Setting up a stack with Nginx, WordPress, and MariaDB in separate containers. |
+| **[ft_transcendence](https://github.com/qtayyy/42-ft_transcendence)** | TS, Next.js, Fastify, Prisma | The final project. A full-stack SPA featuring a real-time Pong game, chat, and robust authentication (OAuth2, 2FA). |
 
 ### 🏆 Hackathons
 Innovation under pressure.
 
 | Project | Tech Stack | Achievement & Summary |
 | :--- | :--- | :--- |
-| **[Senti-Mochi](https://github.com/nelsonwm45/Senti-Mochi)** | Next.js, FastAPI, RAG | 🥈 **1st Runner-up, Ambank Hacklab 2.0 (2026)**<br>An AI-powered market intelligence platform that parses financial data and news to provide actionable insights. |
+| **[Senti-Mochi](https://github.com/nelsonwm45/Senti-Mochi)** | Next.js, FastAPI, RAG, PostgreSQL | 🥈 **1st Runner-up, Ambank Hacklab 2.0 (2026)**<br>An AI-powered market intelligence platform that parses financial data and news to provide actionable insights. |
 | **[Medilink](https://github.com/winniehhy/Medilink)** | Tech Stack | 🏅 **Semi-finalist, NUS HealthHack (2025)**<br>A HealthTech solution bridging the gap between patients and healthcare providers. |
 | **[hackathon_project](https://github.com/wenjuin95/hackathon_project)** | Tech Stack | A collaborative rapid-prototyping project built during a hackathon event. |
 
