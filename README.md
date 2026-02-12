@@ -2,34 +2,23 @@
 
 ### Software Engineer | 42 Cadet
 
-I'm a passionate developer currently navigating the rigorous 42 curriculum. I love building robust systems, exploring new technologies, and solving algorithmic challenges. From low-level C programming to full-stack web development with Next.js and AI integrations, I enjoy every layer of the stack.
+*   🔭 **Current Focus**: Navigating the rigorous **42 curriculum** to master system fundamentals.
+*   💻 **Core Skills**: Strong foundation in **C** and **C++** (Algorithms, Memory Management).
+*   🌱 **Currently Learning**: Expanding horizons with **Full Stack Web Development** (Next.js) and **DevOps** tools.
 
 ---
 
 ## 🛠️ Tech Stack
 
-I have built a foundation in systems programming through the 42 curriculum, working with memory management and algorithms in **C** and **C++**. I have also expanded into full-stack development, building web applications with **Next.js** and **Python**, and using **Shell scripting** for automation.
+*   **System Programming**: My primary focus. I am comfortable working with pointers, memory allocation, and low-level system calls in **C/C++**.
+*   **Web & Scripting**: I use **Python** and **Shell scripting** for automation and am building web projects with **Next.js/React** to understand modern app architecture.
+*   **Tools**: I use **Docker** and **Git** daily to manage my development environment and version control.
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frameworks & Libraries
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp" height="50" alt="core-languages" />
+  <img src="https://skillicons.dev/icons?i=bash,python,git,docker" height="50" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,postgres,nginx" height="50" alt="web-stack" />
+</div>
 
 ---
 
