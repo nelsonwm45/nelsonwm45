@@ -48,7 +48,16 @@ A journey through computer science fundamentals, system programming, and archite
 | **[so_long](https://github.com/nelsonwm45/so_long)** | C, MiniLibX | A 2D tile-based game. Deals with window management, event handling, textures, and sprites. |
 | **[Philosophers](https://github.com/nelsonwm45/Philosopher)** | C, Threads, Mutex | Solving the Dining Philosophers problem. A deep dive into concurrency, threading, mutexes, and avoiding deadlocks. |
 | **[Minishell](https://github.com/nelsonwm45/Minishell-42)** | C, Bash | Creation of a simple shell. Parses commands, manages processes, pipes, redirections, and handles signals. |
-| **[CPP Modules](https://github.com/nelsonwm45/CPP-00)** | C++ | A comprehensive series of projects (Modules 00-09) diving deep into Object-Oriented Programming, Polymorphism, Templates, and STL. |
+| **[CPP-00](https://github.com/nelsonwm45/CPP-00)** | C++ | Basics, Namespaces, Classes, Member functions, stdio streams, Initialization lists, Static, Const. |
+| **[CPP-01](https://github.com/nelsonwm45/CPP-01)** | C++ | Memory Allocation, Pointers, References, Switch statement. |
+| **[CPP-02](https://github.com/nelsonwm45/CPP-02)** | C++ | Ad-hoc Polymorphism, Operator Overloading, Orthodox Canonical Class Form. |
+| **[CPP-03](https://github.com/nelsonwm45/CPP-03)** | C++ | Inheritance. |
+| **[CPP-04](https://github.com/nelsonwm45/CPP-04)** | C++ | Subtype Polymorphism, Abstract Classes, Interfaces. |
+| **[CPP-05](https://github.com/nelsonwm45/CPP-05)** | C++ | Repetition and Exceptions. |
+| **[CPP-06](https://github.com/nelsonwm45/CPP-06)** | C++ | C++ Casts (`static_cast`, `reinterpret_cast`, `dynamic_cast`). |
+| **[CPP-07](https://github.com/nelsonwm45/CPP-07)** | C++ | C++ Templates (Function and Class Templates). |
+| **[CPP-08](https://github.com/nelsonwm45/CPP-08)** | C++ | Templated Containers, Iterators, Algorithms. |
+| **[CPP-09](https://github.com/nelsonwm45/CPP-09)** | C++ | Standard Template Library (STL), Containers (`map`, `stack`, `vector`, `deque`). |
 | **[Cub3d](https://github.com/qtayyy/42-cub3d)** | C, Raycasting | A 3D game engine using raycasting technology, inspired by the classic Wolfenstein 3D. |
 | **[Webserv](https://github.com/jjohntan/webserv.git)** | C++, HTTP/1.1 | Writing a HTTP server from scratch. Supports GET/POST/DELETE, CGI, and handles non-blocking I/O with `epoll`. |
 | **[Inception](https://github.com/nelsonwm45/Inception)** | Docker, SysAdmin | System administration using Docker Compose. Setting up a stack with Nginx, WordPress, and MariaDB in separate containers. |
