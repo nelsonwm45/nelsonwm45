@@ -2,7 +2,7 @@
 
 ### Software Engineer | 42 Cadet
 
-*   🔭 **Current Focus**: Navigating the rigorous **42 curriculum** to master system fundamentals.
+*   🔭 **Current Focus**: Finishing **42 curriculum**.
 *   💻 **Core Skills**: Strong foundation in **C** and **C++** (Algorithms, Memory Management).
 *   🌱 **Currently Learning**: Expanding horizons with **Full Stack Web Development** (Next.js) and **DevOps** tools.
 
@@ -14,10 +14,19 @@
 *   **Web & Scripting**: I use **Python** and **Shell scripting** for automation and am building web projects with **Next.js/React** to understand modern app architecture.
 *   **Tools**: I use **Docker** and **Git** daily to manage my development environment and version control.
 
+### Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp" height="50" alt="core-languages" />
-  <img src="https://skillicons.dev/icons?i=bash,python,git,docker" height="50" alt="tools" />
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,postgres,nginx" height="50" alt="web-stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,ts,js" height="50" alt="languages" />
+</div>
+
+### Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,tailwind" height="50" alt="frameworks" />
+</div>
+
+### Tools & Infrastructure
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,postgres,redis,nginx,git" height="50" alt="tools" />
 </div>
 
 ---
