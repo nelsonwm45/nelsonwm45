@@ -79,3 +79,7 @@ Side quests and explorations.
 | **[Christmas_Tree](https://github.com/nelsonwm45/Christmas_Tree)** | C | A fun terminal-based program that prints a Christmas tree of user-defined height. |
 | **[Advent-of-Code-2025](https://github.com/nelsonwm45/Advent-of-Code-2025)** | C/C++ | My solutions to the daily programming puzzles from Advent of Code 2025. |
 | **[BasicCPP](https://github.com/nelsonwm45/BasicCPP)** | C++ | A repository of C++ exercises and foundational concepts. |
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nelsonwm45&label=Profile%20Views&color=0e75b6&style=flat" alt="nelsonwm45" />
+</div>
