@@ -67,8 +67,8 @@ Innovation under pressure.
 | Project | Tech Stack | Achievement & Summary |
 | :--- | :--- | :--- |
 | **[Senti-Mochi](https://github.com/nelsonwm45/Senti-Mochi)** | Next.js, FastAPI, RAG, PostgreSQL | 🥈 **1st Runner-up, Ambank Hacklab 2.0 (2026)**<br>An AI-powered market intelligence platform that parses financial data and news to provide actionable insights. |
-| **[Medilink](https://github.com/winniehhy/Medilink)** | Tech Stack | 🏅 **Semi-finalist, NUS HealthHack (2025)**<br>A HealthTech solution bridging the gap between patients and healthcare providers. |
-| **[hackathon_project](https://github.com/wenjuin95/hackathon_project)** | Tech Stack | A collaborative rapid-prototyping project built during a hackathon event. |
+| **[Medilink](https://github.com/winniehhy/Medilink)** | Express.js, InterSystems IRIS, Cohere AI | 🏅 **Semi-finalist, NUS HealthHack (2025)**<br>A HealthTech solution bridging the gap between patients and healthcare providers. |
+| **[hackathon_project](https://github.com/wenjuin95/hackathon_project)** | React, TailwindCSS, Sui Move, Firebase | A collaborative rapid-prototyping project built during a hackathon event. |
 
 ### 🧩 Extras
 Side quests and explorations.
