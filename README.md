@@ -1,8 +1,8 @@
 # Hi there, I'm Nelson 👋
 
-### Software Engineer | 42 Cadet
+### Software Developer | 42 Cadet
 
-*   🎓 **Background**: **Bachelor of Occupational Therapy (Hons)** graduate from **UKM (The National University of Malaysia)**, passionately transitioning to **Software Engineering**.
+*   🎓 **Background**: **Bachelor of Occupational Therapy (Hons)** graduate from **UKM (The National University of Malaysia)**, passionately transitioning to **Software Developer**.
 *   🔭 **Current Focus**: Finishing **42 curriculum**.
 *   💻 **Core Skills**: Strong foundation in **C** and **C++** (Algorithms, Memory Management).
 *   🌱 **Currently Learning**: Expanding horizons with **Full Stack Web Development** (Next.js) and **DevOps** tools.
