@@ -17,7 +17,7 @@
 
 ### Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,ts,js" height="50" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,ts,js,html,css" height="50" alt="languages" />
 </div>
 
 ### Frameworks & Libraries
