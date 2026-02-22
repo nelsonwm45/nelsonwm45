@@ -11,10 +11,6 @@
 
 ## 🛠️ Tech Stack
 
-*   **System Programming**: I am comfortable working with pointers, memory allocation, and low-level system calls in **C/C++**.
-*   **Web & Scripting**: I use **Python** and **Shell scripting** for automation and am building web projects with **Next.js/React** to understand modern app architecture.
-*   **Tools**: I use **Docker** and **Git** most of the time to manage my development environment and version control.
-
 ### Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,ts,js,html,css" height="50" alt="languages" />
