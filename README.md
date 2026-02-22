@@ -4,16 +4,16 @@
 
 *   🎓 **Background**: **Bachelor of Occupational Therapy (Hons)** graduate from **UKM (The National University of Malaysia)**, passionately transitioning to **Software Developer**.
 *   🔭 **Current Focus**: Finishing **42 curriculum**.
-*   💻 **Core Skills**: Strong foundation in **C** and **C++** (Algorithms, Memory Management).
+*   💻 **Core Skills**: Better understanding in **C** and **C++**
 *   🌱 **Currently Learning**: Expanding horizons with **Full Stack Web Development** (Next.js) and **DevOps** tools.
 
 ---
 
 ## 🛠️ Tech Stack
 
-*   **System Programming**: My primary focus. I am comfortable working with pointers, memory allocation, and low-level system calls in **C/C++**.
+*   **System Programming**: I am comfortable working with pointers, memory allocation, and low-level system calls in **C/C++**.
 *   **Web & Scripting**: I use **Python** and **Shell scripting** for automation and am building web projects with **Next.js/React** to understand modern app architecture.
-*   **Tools**: I use **Docker** and **Git** daily to manage my development environment and version control.
+*   **Tools**: I use **Docker** and **Git** most of the time to manage my development environment and version control.
 
 ### Languages
 <div align="left">
